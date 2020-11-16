@@ -1,0 +1,48 @@
+img {
+    border-radius: 15%;
+    padding-top: 10px;
+}
+
+
+body {
+    text-align: center;
+ background-color: #e26831;  
+ padding:250px; 
+}
+
+p {
+    font-family: 'Petit Formal Script', cursive;
+    font-size: 20px;
+}
+
+.brown {
+    color: #44220b;
+    font-size: 100px;
+    font-family: 'Petit Formal Script', cursive;
+  text-shadow: 0 15px 16px #fcaf2c;
+}
+
+.part {
+        text-align: center;
+        padding: 2px 5px;
+        position: relative;
+        background-color:#4e8926;
+        width: 50%;
+        border-radius:15%;
+        padding-bottom: 100px;
+        margin: 0 auto;
+      } 
+}
+
+.yellow {
+    color: #fcaf2c;
+}
+
+.red {
+    color: #d63420;
+}
+
+
+.green {
+    color: #4e8926;
+}
